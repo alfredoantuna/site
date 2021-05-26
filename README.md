@@ -1,2 +1,3 @@
 # site
-Website repo
+Practicing html,css, javascript, 
+  webb app: springboot, java
