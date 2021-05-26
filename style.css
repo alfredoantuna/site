@@ -1,29 +1,61 @@
 body{
-    background-color: darkcyan;
+    background-color: rgb(52, 95, 95);
     color:white;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
+
+
+#topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+#topnav a {
+    float:left;
+    color:rgb(245, 156, 208);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration:none;
+    font-size: 25px;
+  }
+  
+#topnav a:hover {
+    background-color:rgb(255, 255, 255);
+    color: black;
+  }
+  
+#topnav a.active {
+    background-color: #ffffff;
+    color: white;
+  }
 #title{
     text-align: center;
+    padding:200px
 }
 #layer2{
     
     background-image: url("https://i.imgur.com/8lYkaEt.jpg");
     text-align: center;
-    padding: 100px;
+    padding: 200px;
     background-size:cover;
     width: 100%
     
 
     }
 #layer3{
-    padding:100px;
+    padding: 400px;
 }
 
-
-
-#tail{
-    padding:100px;
-    background-image: url("https://i.imgur.com/8lYkaEt.jpg");
+#layer4{
+    color:black;
+    padding:200px;
+    background-image: url("https://i.imgur.com/DEpTca1.jpeg");
     background-size:cover;
+    width: 100%
+
     
+}
+#layer5{
+    padding: 400px;
 }
