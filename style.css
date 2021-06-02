@@ -52,6 +52,13 @@ body{
 #layer3{
     padding: 400px;
 }
+#image{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width:75%;
+
+}
 
 #layer4{
     color:black;
@@ -63,5 +70,18 @@ body{
     
 }
 #layer5{
-    padding: 400px;
+    padding: 100px;
+}
+#l5text{
+  float: left;
+  text-align:left;
+  
+}
+#aboutmeimg{
+  float:right;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width: 25%;
+
 }
